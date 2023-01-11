@@ -1,0 +1,7 @@
+name: UseFul
+version: '${project.version}'
+main: de.felixtpg.useful.Main
+api-version: 1.19
+prefix: UF
+authors: [ FelixTPG ]
+description: a very useful plugin
